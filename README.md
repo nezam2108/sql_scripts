@@ -1,1 +1,1 @@
-This repo holds all SQL scripts used for data analysis
+This repo holds all SQL scripts used for data analysis and revenue understanding for the product
